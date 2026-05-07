@@ -48,9 +48,12 @@ OS: Debian GNU/Linux 12
 Service account: evoroshnina-sa-lab1
 <img width="1466" height="669" alt="Снимок экрана 2026-05-07 в 6 48 05 PM" src="https://github.com/user-attachments/assets/a3277b95-ad48-4e65-b2d5-0a41ad53d69e" />
 
+
 <img width="810" height="713" alt="Снимок экрана 2026-05-07 в 6 59 01 PM" src="https://github.com/user-attachments/assets/23d1a9bf-ab6a-4f2a-ab46-f9070be2862e" />
 
+
 <img width="604" height="755" alt="Снимок экрана 2026-05-07 в 6 59 18 PM" src="https://github.com/user-attachments/assets/40eb281b-1789-4781-b85e-3a0071e020ab" />
+
 
 <img width="641" height="528" alt="Снимок экрана 2026-05-07 в 6 59 29 PM" src="https://github.com/user-attachments/assets/fab38370-1507-4453-93fa-2559d9d9084f" />
 
