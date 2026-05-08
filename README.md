@@ -1,14 +1,66 @@
 # 2025_2026-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4125-voroshnina_e_p
-# Cloud platforms as the basis of technology entrepreneurship
 
-Репозиторий содержит отчеты по лабораторным работам по курсу **Cloud platforms as the basis of technology entrepreneurship**.
+## Cloud platforms as the basis of technology entrepreneurship
+
+**University:** [ITMO University](https://itmo.ru/ru/)
+**Faculty:** [FICT](https://fict.itmo.ru)
+**Course:** Cloud platforms as the basis of technology entrepreneurship
+**Year:** 2025/2026
+**Group:** U4125
+**Author:** Voroshnina Eva Pavlovna
+
+---
+
+## Описание репозитория
+
+В данном репозитории собраны лабораторные работы, выполненные в рамках курса.
+Основная цель работ — изучение облачных платформ, принципов работы облачных сервисов, проектирования инфраструктуры и оценки стоимости облачных решений.
+
+В ходе выполнения лабораторных работ рассматриваются:
+
+* работа с облачной платформой Google Cloud;
+* создание и настройка облачных ресурсов;
+* использование Cloud Storage;
+* проектирование инфраструктуры AI-приложения;
+* построение схем инфраструктуры;
+* расчёт экономической модели облачного решения;
+* обоснование выбора облачных сервисов.
+
+---
 
 ## Структура репозитория
 
-- `lab1/lab1_report.md` — отчет по лабораторной работе №1;
-- `.gitignore` — файл для исключения служебных файлов;
-- `LICENSE` — лицензия репозитория.
+| Путь                  | Описание                                                                     |
+| --------------------- | ---------------------------------------------------------------------------- |
+| `lab1/lab1_report.md` | Отчёт по лабораторной работе №1                                              |
+| `lab2/lab2_report.md` | Отчёт по лабораторной работе №2                                              |
+| `lab3/lab3_report.md` | Отчёт по лабораторной работе №3: исследование Cloud Storage                  |
+| `lab4/lab4_report.md` | Отчёт по лабораторной работе №4: разработка инфраструктуры MVP AI-приложения |          |
+| `LICENSE`             | Лицензия репозитория                                                         |
+| `README.md`           | Общее описание репозитория                                                   |
 
-## Автор
 
-Voroshnina Eva
+---
+
+## Используемые инструменты
+
+В ходе выполнения лабораторных работ использовались:
+
+* Google Cloud Console;
+* Google Cloud Storage;
+* draw.io / diagrams.net;
+* GitHub;
+* Markdown.
+
+---
+
+## Примечания
+
+Репозиторий оформлен в соответствии с требованиями курса.
+Каждая лабораторная работа находится в отдельной папке и содержит отдельный файл отчёта в формате Markdown.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
