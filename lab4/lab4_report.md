@@ -18,7 +18,7 @@ Group: U4125
 Author: Voroshnina Eva Pavlovna
 Lab: Lab4
 Date of create: 08.05.2026
-Date of finished: [указать дату защиты]
+Date of finished: 
 
 ---
 
